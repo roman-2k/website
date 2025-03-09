@@ -1,4 +1,4 @@
-/* Основні стилі */
+/* РћСЃРЅРѕРІРЅС– СЃС‚РёР»С– */
 body {
     font-family: Verdana, sans-serif;
     color: #212529;
@@ -12,13 +12,13 @@ body {
 	background-image: url("background.png");
 }
 
-/* Контейнер для контенту */
+/* РљРѕРЅС‚РµР№РЅРµСЂ РґР»СЏ РєРѕРЅС‚РµРЅС‚Сѓ */
 .container {
     max-width: 960px;
     padding: 20px;
 }
 
-/* Заголовок H1 */
+/* Р—Р°РіРѕР»РѕРІРѕРє H1 */
 h1 {
     background-color: #212529;
     color: #FFFFFF;
@@ -27,7 +27,7 @@ h1 {
     display: inline-block;
 }
 
-/* Стилі для кнопки */
+/* РЎС‚РёР»С– РґР»СЏ РєРЅРѕРїРєРё */
 .btn {
     display: inline-block;
     padding: 10px 20px;
