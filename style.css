@@ -38,9 +38,18 @@ h1 {
 	border-radius: 20px;
 	margin-top: 20px;
 	transition: background-color 0.4s ease;
+	border: 1px solid #212529;
 }
 
 .btn:hover {
 	background-color: #ffd500;
 	color: #212529;
+	border: 1px solid #212529;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 20px;
+	border: 1px solid #212529;
 }
